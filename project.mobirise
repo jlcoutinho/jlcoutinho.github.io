@@ -549,20 +549,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Digite aqui a legenda",
-                "active": true
+                "active": false
               },
               {
                 "tags": "O Que Te Espera!",
-                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019113-182412019-1-3-18-4-5.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=jJFSG_TOAss",
                 "image": "@PROJECT_PATH@/assets/images/image63-2-1500x897.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/image63-2-1500x897-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Digite aqui a legenda",
-                "active": false
+                "active": true
               }
             ]
           }
