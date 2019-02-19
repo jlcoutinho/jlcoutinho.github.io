@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 60,
+    "uniqCompNum": 86,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-ulc-55x55.png",
@@ -50,7 +50,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Inglaterra | Julho 2019",
+        "title": "Viagem Inglaterra ULC",
         "meta_descr": "Embarque com a ULC English em uma inesquecível viagem de 30 dias pela Inglaterra e País de Gales com aulas de inglês, cultura e muita diversão!",
         "header_custom": "",
         "footer_custom": "",
